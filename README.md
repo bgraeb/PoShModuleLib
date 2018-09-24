@@ -13,3 +13,4 @@ It's primarily for my own usage, but you might find it interesting too.
 | [EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) | VSCode Powershell extension          | `install-module EditorServicesCommandSuite -force` |
 | [Polaris](https://github.com/PowerShell/Polaris/blob/master/README.md)                      | Powershell webserver framework       | `install-module polaris -force`                    |
 |[UniversalDashboard](https://www.poshud.com/Home) | Powershell web dashboard | `Install-module UniversalDashboard -force`|
+| [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/blob/master/README.md) | Dependency checker and updater | `Install-Module PSDepend -force` |
